@@ -1,0 +1,13 @@
+table {
+    border-collapse: collapse;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+  }
+  
+  table ,td {
+    border: 1px solid black;
+  }
+.cent{
+    align-items: center;
+}
