@@ -1,13 +1,8 @@
-table {
-    border-collapse: collapse;
-    text-align: center;
-    height: 100px;
-    width: 100px;
-  }
-  
-  table ,td {
-    border: 1px solid black;
-  }
-.cent{
-    align-items: center;
+
+td {
+height: 150px;
+width: 150px;
+text-align: center;
+border: 5px solid black;
+font-size: 100px;
 }
